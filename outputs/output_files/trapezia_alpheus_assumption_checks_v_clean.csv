@@ -1,0 +1,13 @@
+host_species,host_species_md,metric,taxon,taxon_label,n,shapiro_p,levene_p
+Pocillopora favosa,*Pocillopora favosa*,Occurrence,trapezia,*Trapezia*,66,4.8162915332151186e-4,0.9513614671689579
+Pocillopora favosa,*Pocillopora favosa*,Occurrence,alpheus,*Alpheus*,66,1.1844100099222726e-6,0.9513614671689579
+Pocillopora favosa,*Pocillopora favosa*,Mean abundance,trapezia,*Trapezia*,66,0.03059245519339356,0.13468752754818167
+Pocillopora favosa,*Pocillopora favosa*,Mean abundance,alpheus,*Alpheus*,66,6.034832670060865e-8,0.13468752754818167
+Pocillopora favosa,*Pocillopora favosa*,Intensity,trapezia,*Trapezia*,63,1.4843013282064477e-9,0.7129940386338083
+Pocillopora favosa,*Pocillopora favosa*,Intensity,alpheus,*Alpheus*,46,1.8058551461760604e-5,0.7129940386338083
+Stylophora pistillata,*Stylophora pistillata*,Occurrence,trapezia,*Trapezia*,69,8.771087462161148e-5,8.591823481524834e-16
+Stylophora pistillata,*Stylophora pistillata*,Occurrence,alpheus,*Alpheus*,69,1.3568145380347574e-15,8.591823481524834e-16
+Stylophora pistillata,*Stylophora pistillata*,Mean abundance,trapezia,*Trapezia*,69,0.06067606598338335,6.283181965661284e-17
+Stylophora pistillata,*Stylophora pistillata*,Mean abundance,alpheus,*Alpheus*,69,9.757749890465202e-17,6.283181965661284e-17
+Stylophora pistillata,*Stylophora pistillata*,Intensity,trapezia,*Trapezia*,66,5.892858199883837e-4,2.7248692635017365e-6
+Stylophora pistillata,*Stylophora pistillata*,Intensity,alpheus,*Alpheus*,8,0.007731864520550172,2.7248692635017365e-6

@@ -2,9 +2,6 @@
 
 # From co-occurrence to facilitative coupling in a coral defender guild
 
-<p align="center">
-  <img src="outputs/figures/figure1.png" width="600">
-</p>
 
 This repository contains data and code to reproduce the analyses and figures from:
 

@@ -17,20 +17,19 @@ The study investigates co-occurrence and facilitative dynamics between *Trapezia
 ## Repository structure
 
 - input/
-  - controls_cleaned_with_months.csv  
+  - controls_cleaned_with_months_unified.csv  
     Main dataset used in all analyses
 
 - scripts/
-  - scripts_analyses/  
+  - scripts_analysis/  
     Statistical analyses and data processing  
-  - scripts_plots_pre_PR/  
+  - scripts_plots_mod  
     Plotting scripts for figures  
 
 - outputs/
   - figures/  
-    Final figures used in the manuscript  
-  - diagnostic_plots/  
-    Model checks and intermediate plots  
+    Final figures used in the manuscript
+    Figures for the appendix and intermediate figures
   - output_files/  
     Processed datasets and summary tables  
 

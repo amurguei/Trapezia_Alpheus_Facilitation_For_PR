@@ -1,5 +1,4 @@
 # Query: README.md
-# ContextLines: 1
 
 # From co-occurrence to facilitative coupling in a coral defender guild
 

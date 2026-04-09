@@ -1,0 +1,7 @@
+metric,host_species,host_species_md,p_value,statistic,p_label
+Occurrence,Pocillopora favosa,*Pocillopora favosa*,4.97e-7,1040.5,p < 0.001
+Occurrence,Stylophora pistillata,*Stylophora pistillata*,1.96e-15,1596.5,p < 0.001
+Mean abundance,Pocillopora favosa,*Pocillopora favosa*,1.43e-5,982,p < 0.001
+Mean abundance,Stylophora pistillata,*Stylophora pistillata*,3.19e-15,1590.5,p < 0.001
+Intensity,Pocillopora favosa,*Pocillopora favosa*,0.21,549,p = 0.21
+Intensity,Stylophora pistillata,*Stylophora pistillata*,0.445,166,p = 0.445

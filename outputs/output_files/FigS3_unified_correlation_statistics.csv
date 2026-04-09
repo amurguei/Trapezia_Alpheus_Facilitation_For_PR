@@ -1,0 +1,7 @@
+host_species,host_species_md,rho,p,n,label
+Pocillopora favosa,*Pocillopora favosa*,0.8733628358357757,7.6725098063918e-12,35,"rho = 0.87
+p < 0.001
+n = 35"
+Stylophora pistillata,*Stylophora pistillata*,0.2753728703008533,0.08546668251063935,40,"rho = 0.28
+p = 0.0855
+n = 40"

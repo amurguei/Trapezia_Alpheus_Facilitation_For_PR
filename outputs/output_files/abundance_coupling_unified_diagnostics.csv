@@ -1,0 +1,3 @@
+host_species,overdispersion_ratio,overdispersion_p,zero_inflation_ratio,zero_inflation_p,singular,dharma_uniformity_p,dharma_dispersion_p,dharma_zero_p
+Pocillopora favosa,0.7237224168581722,0.872,0.9573357664233577,NA,NA,0.09494405447293426,0.988,0.358
+Stylophora pistillata,0.6469052407612047,0.552,0.997502857142857,NA,NA,0.005722520915760091,0.568,0.762

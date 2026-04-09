@@ -1,0 +1,3 @@
+genus,host_species,host_species_md,n,n_colonies,n_T1,n_T0,pA_given_T,pA_given_notT,RR,OR,logOR,p_perm,logOR_obs,p_perm_display
+Pocillopora,Pocillopora favosa,*Pocillopora favosa*,733,35,480,253,0.3541666666666667,0.05928853754940711,5.973611111111111,8.44927536231884,2.134080681753233,0,2.134080681753233,<1e-04
+Stylophora,Stylophora pistillata,*Stylophora pistillata*,710,40,490,220,0.02040816326530612,0,NA,9.636836628511967,2.2655929041999765,0.0154,2.2655929041999765,0.0154

@@ -1,5 +1,0 @@
-cohort_label,genus,genus_label,rho,p,ci_low,ci_high,n_colonies,dataset
-N1,Pocillopora,*Pocillopora favosa*,0.8139468409613522,2.747864935517659e-9,NA,NA,35,N1
-N1,Stylophora,*Stylophora pistillata*,0.17236945122781822,0.28752027680386655,NA,NA,40,N1
-N2,Pocillopora,*Pocillopora favosa*,0.46950904115586173,0.007704717182807965,NA,NA,31,N2
-N2,Stylophora,*Stylophora pistillata*,0.08091215685354249,0.6764997849176372,NA,NA,29,N2

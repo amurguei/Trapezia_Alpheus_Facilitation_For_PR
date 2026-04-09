@@ -1,0 +1,7 @@
+metric,taxon,taxon_label,p_value,statistic,sig_label,p_label
+Occurrence,alpheus,*Alpheus*,9.63e-9,1198,**,p < 0.001
+Occurrence,trapezia,*Trapezia*,0.555,644,ns,p = 0.555
+Mean abundance,alpheus,*Alpheus*,1.66e-8,1190,**,p < 0.001
+Mean abundance,trapezia,*Trapezia*,0.305,797,ns,p = 0.305
+Intensity,alpheus,*Alpheus*,0.427,117.5,ns,p = 0.427
+Intensity,trapezia,*Trapezia*,0.0171,875.5,*,p = 0.0171

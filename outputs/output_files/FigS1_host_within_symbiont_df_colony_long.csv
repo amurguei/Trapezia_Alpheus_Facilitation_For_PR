@@ -1,0 +1,451 @@
+coral_uid,host_species,host_species_md,taxon,taxon_label,n_observations,n_present,total_count,metric,value
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,24,15,26,Occurrence,0.625
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,24,15,26,Mean abundance,1.0833333333333333
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,24,15,26,Intensity,1.7333333333333334
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,24,22,67,Occurrence,0.9166666666666666
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,24,22,67,Mean abundance,2.7916666666666665
+12Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,24,22,67,Intensity,3.0454545454545454
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,11,20,Occurrence,0.44
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,11,20,Mean abundance,0.8
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,11,20,Intensity,1.8181818181818181
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,25,54,Occurrence,1
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,25,54,Mean abundance,2.16
+12Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,25,54,Intensity,2.16
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Occurrence,0.12
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Mean abundance,0.16
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Intensity,1.3333333333333333
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,29,Occurrence,0.64
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,29,Mean abundance,1.16
+12Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,29,Intensity,1.8125
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,6,Occurrence,0.12
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,6,Mean abundance,0.24
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,6,Intensity,2
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,22,40,Occurrence,0.88
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,22,40,Mean abundance,1.6
+12Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,22,40,Intensity,1.8181818181818181
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,10,16,Occurrence,0.43478260869565216
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,10,16,Mean abundance,0.6956521739130435
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,10,16,Intensity,1.6
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,28,Occurrence,0.6521739130434783
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,28,Mean abundance,1.2173913043478262
+12Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,28,Intensity,1.8666666666666667
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,14,32,Occurrence,0.7368421052631579
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,14,32,Mean abundance,1.6842105263157894
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,14,32,Intensity,2.2857142857142856
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,17,48,Occurrence,0.8947368421052632
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,17,48,Mean abundance,2.526315789473684
+12Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,17,48,Intensity,2.823529411764706
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,10,1,1,Occurrence,0.1
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,10,1,1,Mean abundance,0.1
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,10,1,1,Intensity,1
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,10,10,17,Occurrence,1
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,10,10,17,Mean abundance,1.7
+12Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,10,10,17,Intensity,1.7
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Occurrence,0
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Mean abundance,0
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Intensity,NA
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,5,5,Occurrence,0.2631578947368421
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,5,5,Mean abundance,0.2631578947368421
+12Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,5,5,Intensity,1
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Occurrence,0
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Mean abundance,0
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Intensity,NA
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,5,6,Occurrence,0.4166666666666667
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,5,6,Mean abundance,0.5
+12Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,5,6,Intensity,1.2
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,17,33,Occurrence,0.7391304347826086
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,17,33,Mean abundance,1.434782608695652
+12Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,17,33,Intensity,1.9411764705882353
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Occurrence,0
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Mean abundance,0
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Intensity,NA
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,8,16,Occurrence,0.6153846153846154
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,8,16,Mean abundance,1.2307692307692308
+12Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,8,16,Intensity,2
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,7,0,0,Occurrence,0
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,7,0,0,Mean abundance,0
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,7,0,0,Intensity,NA
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,7,6,11,Occurrence,0.8571428571428571
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,7,6,11,Mean abundance,1.5714285714285714
+12Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,7,6,11,Intensity,1.8333333333333333
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,21,0,0,Occurrence,0
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,21,0,0,Mean abundance,0
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,21,0,0,Intensity,NA
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,21,18,37,Occurrence,0.8571428571428571
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,21,18,37,Mean abundance,1.7619047619047619
+12Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,21,18,37,Intensity,2.0555555555555554
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Occurrence,0
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Mean abundance,0
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Intensity,NA
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,13,26,Occurrence,0.8125
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,13,26,Mean abundance,1.625
+12Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,13,26,Intensity,2
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Occurrence,0
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Mean abundance,0
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Intensity,NA
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Occurrence,0
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Mean abundance,0
+13Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Intensity,NA
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Occurrence,0
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Mean abundance,0
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,2,0,0,Intensity,NA
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Occurrence,0
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Mean abundance,0
+13Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,2,0,0,Intensity,NA
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Occurrence,0
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Mean abundance,0
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Intensity,NA
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,10,Occurrence,0.4375
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,10,Mean abundance,0.625
+13Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,10,Intensity,1.4285714285714286
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Occurrence,0
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Mean abundance,0
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Intensity,NA
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,10,19,Occurrence,0.5882352941176471
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,10,19,Mean abundance,1.1176470588235294
+13Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,10,19,Intensity,1.9
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,6,12,Occurrence,0.24
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,6,12,Mean abundance,0.48
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,6,12,Intensity,2
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,19,37,Occurrence,0.76
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,19,37,Mean abundance,1.48
+14Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,19,37,Intensity,1.9473684210526316
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,14,Occurrence,0.28
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,14,Mean abundance,0.56
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,14,Intensity,2
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,30,Occurrence,0.64
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,30,Mean abundance,1.2
+14Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,30,Intensity,1.875
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,9,0,0,Occurrence,0
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,9,0,0,Mean abundance,0
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,9,0,0,Intensity,NA
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,9,3,6,Occurrence,0.3333333333333333
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,9,3,6,Mean abundance,0.6666666666666666
+14Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,9,3,6,Intensity,2
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,1,2,Occurrence,0.05263157894736842
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,1,2,Mean abundance,0.10526315789473684
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,1,2,Intensity,2
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,16,31,Occurrence,0.8421052631578947
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,16,31,Mean abundance,1.631578947368421
+14Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,16,31,Intensity,1.9375
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,4,8,Occurrence,0.17391304347826086
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,4,8,Mean abundance,0.34782608695652173
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,4,8,Intensity,2
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,34,Occurrence,0.8260869565217391
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,34,Mean abundance,1.4782608695652173
+14Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,34,Intensity,1.7894736842105263
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Occurrence,0
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Mean abundance,0
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,0,0,Intensity,NA
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,8,12,Occurrence,0.42105263157894735
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,8,12,Mean abundance,0.631578947368421
+14Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,8,12,Intensity,1.5
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Occurrence,0
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Mean abundance,0
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Intensity,NA
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,38,Occurrence,0.84
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,38,Mean abundance,1.52
+14Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,38,Intensity,1.8095238095238095
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Occurrence,0
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Mean abundance,0
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Intensity,NA
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,13,26,Occurrence,0.7647058823529411
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,13,26,Mean abundance,1.5294117647058822
+14Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,13,26,Intensity,2
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,3,12,Occurrence,0.15789473684210525
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,3,12,Mean abundance,0.631578947368421
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,3,12,Intensity,4
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,10,32,Occurrence,0.5263157894736842
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,10,32,Mean abundance,1.6842105263157894
+14Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,10,32,Intensity,3.2
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Occurrence,0
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Mean abundance,0
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Intensity,NA
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,15,30,Occurrence,0.6
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,15,30,Mean abundance,1.2
+14Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,15,30,Intensity,2
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Occurrence,0
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Mean abundance,0
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,12,0,0,Intensity,NA
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,7,11,Occurrence,0.5833333333333334
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,7,11,Mean abundance,0.9166666666666666
+14Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,12,7,11,Intensity,1.5714285714285714
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,14,0,0,Occurrence,0
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,14,0,0,Mean abundance,0
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,14,0,0,Intensity,NA
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,14,6,11,Occurrence,0.42857142857142855
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,14,6,11,Mean abundance,0.7857142857142857
+14Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,14,6,11,Intensity,1.8333333333333333
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,13,Occurrence,0.28
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,13,Mean abundance,0.52
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,7,13,Intensity,1.8571428571428572
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,21,41,Occurrence,0.84
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,21,41,Mean abundance,1.64
+1Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,21,41,Intensity,1.9523809523809523
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,2,Occurrence,0.04
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,2,Mean abundance,0.08
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,2,Intensity,2
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,15,30,Occurrence,0.6
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,15,30,Mean abundance,1.2
+1Pd10_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,15,30,Intensity,2
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,18,1,1,Occurrence,0.05555555555555555
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,18,1,1,Mean abundance,0.05555555555555555
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,18,1,1,Intensity,1
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,18,13,21,Occurrence,0.7222222222222222
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,18,13,21,Mean abundance,1.1666666666666667
+1Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,18,13,21,Intensity,1.6153846153846154
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,11,21,Occurrence,0.4782608695652174
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,11,21,Mean abundance,0.9130434782608695
+1Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,11,21,Intensity,1.9090909090909092
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,0,0,Occurrence,0
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,0,0,Mean abundance,0
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,0,0,Intensity,NA
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,4,4,Occurrence,0.16
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,4,4,Mean abundance,0.16
+1Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,4,4,Intensity,1
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,18,46,Occurrence,0.72
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,18,46,Mean abundance,1.84
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,18,46,Intensity,2.5555555555555554
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,20,63,Occurrence,0.8
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,20,63,Mean abundance,2.52
+1Pd5_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,20,63,Intensity,3.15
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,9,28,Occurrence,0.391304347826087
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,9,28,Mean abundance,1.2173913043478262
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,9,28,Intensity,3.111111111111111
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,13,52,Occurrence,0.5652173913043478
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,13,52,Mean abundance,2.260869565217391
+1Pd6_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,13,52,Intensity,4
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,22,1,1,Occurrence,0.045454545454545456
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,22,1,1,Mean abundance,0.045454545454545456
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,22,1,1,Intensity,1
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,22,11,23,Occurrence,0.5
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,22,11,23,Mean abundance,1.0454545454545454
+1Pd7_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,22,11,23,Intensity,2.090909090909091
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,2,4,Occurrence,0.08695652173913043
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,2,4,Mean abundance,0.17391304347826086
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,2,4,Intensity,2
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,12,26,Occurrence,0.5217391304347826
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,12,26,Mean abundance,1.1304347826086956
+1Pd8_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,12,26,Intensity,2.1666666666666665
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,8,13,Occurrence,0.34782608695652173
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,8,13,Mean abundance,0.5652173913043478
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,8,13,Intensity,1.625
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,39,Occurrence,0.8260869565217391
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,39,Mean abundance,1.6956521739130435
+1Pd9_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,19,39,Intensity,2.0526315789473686
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,2,Occurrence,0.043478260869565216
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,2,Mean abundance,0.08695652173913043
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,2,Intensity,2
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,22,44,Occurrence,0.9565217391304348
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,22,44,Mean abundance,1.9130434782608696
+1Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,22,44,Intensity,2
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,1,1,Occurrence,0.04
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,1,1,Mean abundance,0.04
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,1,1,Intensity,1
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,22,41,Occurrence,0.88
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,22,41,Mean abundance,1.64
+1Sp10_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,22,41,Intensity,1.8636363636363635
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Occurrence,0
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Mean abundance,0
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Intensity,NA
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,16,27,Occurrence,0.8888888888888888
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,16,27,Mean abundance,1.5
+1Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,16,27,Intensity,1.6875
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Occurrence,0
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Mean abundance,0
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,13,0,0,Intensity,NA
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,2,3,Occurrence,0.15384615384615385
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,2,3,Mean abundance,0.23076923076923078
+1Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,13,2,3,Intensity,1.5
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,15,0,0,Occurrence,0
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,15,0,0,Mean abundance,0
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,15,0,0,Intensity,NA
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,15,9,16,Occurrence,0.6
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,15,9,16,Mean abundance,1.0666666666666667
+1Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,15,9,16,Intensity,1.7777777777777777
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,1,Occurrence,0.043478260869565216
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,1,Mean abundance,0.043478260869565216
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,1,1,Intensity,1
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,11,16,Occurrence,0.4782608695652174
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,11,16,Mean abundance,0.6956521739130435
+1Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,11,16,Intensity,1.4545454545454546
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,8,0,0,Occurrence,0
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,8,0,0,Mean abundance,0
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,8,0,0,Intensity,NA
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,8,7,10,Occurrence,0.875
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,8,7,10,Mean abundance,1.25
+1Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,8,7,10,Intensity,1.4285714285714286
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,22,2,6,Occurrence,0.09090909090909091
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,22,2,6,Mean abundance,0.2727272727272727
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,22,2,6,Intensity,3
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,22,17,30,Occurrence,0.7727272727272727
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,22,17,30,Mean abundance,1.3636363636363635
+1Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,22,17,30,Intensity,1.7647058823529411
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,20,28,Occurrence,0.8695652173913043
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,20,28,Mean abundance,1.2173913043478262
+1Sp8_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,20,28,Intensity,1.4
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Occurrence,0
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Mean abundance,0
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Intensity,NA
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,15,26,Occurrence,0.8333333333333334
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,15,26,Mean abundance,1.4444444444444444
+1Sp9_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,15,26,Intensity,1.7333333333333334
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,0,0,Occurrence,0
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,0,0,Mean abundance,0
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,0,0,Intensity,NA
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,5,7,Occurrence,0.29411764705882354
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,5,7,Mean abundance,0.4117647058823529
+5Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,5,7,Intensity,1.4
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,3,5,Occurrence,0.17647058823529413
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,3,5,Mean abundance,0.29411764705882354
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,17,3,5,Intensity,1.6666666666666667
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,13,23,Occurrence,0.7647058823529411
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,13,23,Mean abundance,1.3529411764705883
+5Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,17,13,23,Intensity,1.7692307692307692
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Occurrence,0
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Mean abundance,0
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Intensity,NA
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,44,Occurrence,0.84
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,44,Mean abundance,1.76
+5Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,21,44,Intensity,2.0952380952380953
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,1,1,Occurrence,0.05263157894736842
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,1,1,Mean abundance,0.05263157894736842
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,19,1,1,Intensity,1
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,18,42,Occurrence,0.9473684210526315
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,18,42,Mean abundance,2.210526315789474
+5Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,19,18,42,Intensity,2.3333333333333335
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,8,25,Occurrence,0.32
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,8,25,Mean abundance,1
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,8,25,Intensity,3.125
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,13,56,Occurrence,0.52
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,13,56,Mean abundance,2.24
+6Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,13,56,Intensity,4.3076923076923075
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,11,42,Occurrence,0.5789473684210527
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,11,42,Mean abundance,2.210526315789474
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,19,11,42,Intensity,3.8181818181818183
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,13,66,Occurrence,0.6842105263157895
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,13,66,Mean abundance,3.473684210526316
+6Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,19,13,66,Intensity,5.076923076923077
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,17,55,Occurrence,0.7391304347826086
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,17,55,Mean abundance,2.391304347826087
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,17,55,Intensity,3.235294117647059
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,18,82,Occurrence,0.782608695652174
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,18,82,Mean abundance,3.5652173913043477
+6Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,18,82,Intensity,4.555555555555555
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,6,9,Occurrence,0.2608695652173913
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,6,9,Mean abundance,0.391304347826087
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,6,9,Intensity,1.5
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,9,16,Occurrence,0.391304347826087
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,9,16,Mean abundance,0.6956521739130435
+6Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,9,16,Intensity,1.7777777777777777
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Occurrence,0
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Mean abundance,0
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,17,0,0,Intensity,NA
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,12,25,Occurrence,0.7058823529411765
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,12,25,Mean abundance,1.4705882352941178
+6Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,17,12,25,Intensity,2.0833333333333335
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Occurrence,0
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Mean abundance,0
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,18,0,0,Intensity,NA
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,17,27,Occurrence,0.9444444444444444
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,17,27,Mean abundance,1.5
+6Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,18,17,27,Intensity,1.588235294117647
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,24,0,0,Occurrence,0
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,24,0,0,Mean abundance,0
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,24,0,0,Intensity,NA
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,24,20,31,Occurrence,0.8333333333333334
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,24,20,31,Mean abundance,1.2916666666666667
+6Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,24,20,31,Intensity,1.55
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,21,39,Occurrence,0.9130434782608695
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,21,39,Mean abundance,1.6956521739130435
+6Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,21,39,Intensity,1.8571428571428572
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,13,43,Occurrence,0.5652173913043478
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,13,43,Mean abundance,1.8695652173913044
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,13,43,Intensity,3.3076923076923075
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,72,Occurrence,0.6521739130434783
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,72,Mean abundance,3.130434782608696
+7Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,15,72,Intensity,4.8
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,18,33,Occurrence,0.782608695652174
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,18,33,Mean abundance,1.434782608695652
+7Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,23,18,33,Intensity,1.8333333333333333
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Occurrence,0.12
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Mean abundance,0.16
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,3,4,Intensity,1.3333333333333333
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,23,44,Occurrence,0.92
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,23,44,Mean abundance,1.76
+8Pd1_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,23,44,Intensity,1.9130434782608696
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Occurrence,0.04
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Mean abundance,0.04
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Intensity,1
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,31,Occurrence,0.64
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,31,Mean abundance,1.24
+8Pd2_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,16,31,Intensity,1.9375
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Occurrence,0.04
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Mean abundance,0.04
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,25,1,1,Intensity,1
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,11,18,Occurrence,0.44
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,11,18,Mean abundance,0.72
+8Pd3_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,25,11,18,Intensity,1.6363636363636365
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Occurrence,0
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Mean abundance,0
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,alpheus,*Alpheus*,23,0,0,Intensity,NA
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,5,7,Occurrence,0.21739130434782608
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,5,7,Mean abundance,0.30434782608695654
+8Pd4_control_unified,Pocillopora favosa,*Pocillopora favosa*,trapezia,*Trapezia*,23,5,7,Intensity,1.4
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,20,0,0,Occurrence,0
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,20,0,0,Mean abundance,0
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,20,0,0,Intensity,NA
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,20,13,27,Occurrence,0.65
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,20,13,27,Mean abundance,1.35
+8Sp1_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,20,13,27,Intensity,2.076923076923077
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,1,1,Occurrence,0.1
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,1,1,Mean abundance,0.1
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,1,1,Intensity,1
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,6,11,Occurrence,0.6
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,6,11,Mean abundance,1.1
+8Sp2_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,6,11,Intensity,1.8333333333333333
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,0,0,Occurrence,0
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,0,0,Mean abundance,0
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,10,0,0,Intensity,NA
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,8,14,Occurrence,0.8
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,8,14,Mean abundance,1.4
+8Sp3_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,10,8,14,Intensity,1.75
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,6,0,0,Occurrence,0
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,6,0,0,Mean abundance,0
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,6,0,0,Intensity,NA
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,6,2,2,Occurrence,0.3333333333333333
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,6,2,2,Mean abundance,0.3333333333333333
+8Sp4_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,6,2,2,Intensity,1
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,11,0,0,Occurrence,0
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,11,0,0,Mean abundance,0
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,11,0,0,Intensity,NA
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,11,1,2,Occurrence,0.09090909090909091
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,11,1,2,Mean abundance,0.18181818181818182
+8Sp5_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,11,1,2,Intensity,2
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Occurrence,0
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Mean abundance,0
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,16,0,0,Intensity,NA
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,11,Occurrence,0.4375
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,11,Mean abundance,0.6875
+8Sp6_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,16,7,11,Intensity,1.5714285714285714
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Occurrence,0
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Mean abundance,0
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,alpheus,*Alpheus*,25,0,0,Intensity,NA
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,16,31,Occurrence,0.64
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,16,31,Mean abundance,1.24
+8Sp7_control_unified,Stylophora pistillata,*Stylophora pistillata*,trapezia,*Trapezia*,25,16,31,Intensity,1.9375

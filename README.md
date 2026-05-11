@@ -30,12 +30,3 @@ The study investigates co-occurrence and facilitative dynamics between *Trapezia
   - output_files/  
     Processed datasets and summary tables  
 
----
-
-## Authors
-
-Amalia Murgueitio Calle  
-Yael B. Horoszowski-Fridman  
-Baruch Rinkevich  
-
-Corresponding author: amurguei@campus.haifa.ac.il

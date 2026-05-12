@@ -3,7 +3,7 @@
 # From co-occurrence to facilitative coupling in a coral defender guild
 
 
-This repository contains data and code to reproduce the analyses and figures for the manuscript titled: "From co-occurrence to facilitative coupling in a coral defender guild"
+This repository contains data and code to reproduce the analyses and figures for the manuscript titled: "From co-occurrence to facilitative coupling in a coral defender guild".
 
 The study investigates co-occurrence and facilitative dynamics between *Trapezia* (guard crabs) and *Alpheus* (snapping shrimp) in pocilloporid corals using long-term monitoring data from the northern Red Sea.
 
